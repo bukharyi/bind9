@@ -1,0 +1,6 @@
+server ns1.focus.my
+debug yes
+zone focus.my
+update delete  bukhary.focus.my 3600 A 192.168.138.100
+show
+send
